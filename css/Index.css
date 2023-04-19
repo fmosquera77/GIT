@@ -1,9 +1,10 @@
 body{
-    background-color: aqua;
+    background-color: orange;
    
 }
 
 p{
+    color: beige;
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
